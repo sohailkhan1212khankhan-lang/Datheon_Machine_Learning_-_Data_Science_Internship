@@ -1,1 +1,1 @@
-# internship-datasci
+Datheon_Machine_Learning_&_Data_Science_Internship
